@@ -11,7 +11,7 @@
 <config>
     <modules>
         <German_LocalePackBr>
-            <version>0.2.0</version>
+            <version>0.2.1</version>
             <locale>pt_BR</locale>
             <title>Portuguese (Brazil) Language Pack</title>
             <link_git>https://github.com/MaWoScha/German_LocalePack_pt_BR</link_git>
